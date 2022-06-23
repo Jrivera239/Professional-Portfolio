@@ -62,22 +62,6 @@ nav ul li a:first-letter{
     color: rgb(255, 255, 255);
     font-family: cursive;
 }
-.btn{
-    background-color:rgb(255, 255, 255);
-    color:rgb(0, 94, 255);
-    text-decoration: none;
-    font-size: 20px;
-    border: 2px solid transparent;
-    font-weight:bold;
-    padding:10px 20px;
-    flex-direction: flex;
-    flex-wrap: wrap;
-    border-radius:20px;
-    transition: 1s;
-}
-.btn:hover{
-    transform: scale(1.2);
-}
 .content{
     top:60%;
     left:8%;

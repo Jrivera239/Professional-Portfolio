@@ -21,3 +21,6 @@ pictures used on page:
 ![img2](https://user-images.githubusercontent.com/106676739/175389830-71d0e8a4-ebce-4480-900f-6f58dd5711d7.JPG)
 ![img1](https://user-images.githubusercontent.com/106676739/175390102-99a40f57-548b-477f-83b5-a24ecd88fa2d.jpg)
 The icons on "My Service and on the footer" can be found in Font awesome online.
+
+SCREENSHOT
+![127 0 0 1_5501_Module%202%20Challenge_Porfolio_Porfolio html](https://user-images.githubusercontent.com/106676739/175426685-1d3b333f-ef9e-4371-9b5b-cc12463dda28.png)

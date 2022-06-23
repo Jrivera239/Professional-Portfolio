@@ -378,7 +378,8 @@ footer p:nth-child(2){
     color: white;
 }
 .end{
-position: absolute;
+position: flex;
+flex-wrap:flex;
 bottom:0px;
 font-size: 14px;
 right:11px;
